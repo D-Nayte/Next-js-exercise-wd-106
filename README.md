@@ -22,14 +22,14 @@
 
 ## **Description**
 
-### This exercise is made for Masterschool students to work the Router in Next.js 13.
+### This exercise is made for Masterschool students to work with the Router in Next.js 13.
 
 ### You get instructions to create a dynamic route using [JSON placeholder](https://jsonplaceholder.typicode.com/) and Next.js Router.
 
 </br>
 
-<img src="./assets/next-js-exercise-picture1.png" style="width: 400px;" />
-<img src="./assets/next-js-exercise-picture2.png" style="width: 400px;" />
+<img src="./assets/next-js-exercise-picture1.png" style="width: 1200px;" />
+<img src="./assets/next-js-exercise-picture2.png" style="width: 1200px;" />
 
 </br>
 
@@ -96,8 +96,8 @@
 
 ### **Desired outcome**:
 
-<img src="./assets/exercise2-first.png" style="width: 600px;" />
-<img src="./assets/exercise2-second.png" style="width: 600px;" />
+<img src="./assets/exercise2-first.png" style="width: 1200px;" />
+<img src="./assets/exercise2-second.png" style="width: 1200px;" />
 
 ---
 
@@ -132,8 +132,8 @@
 
 ### **Desired outcome**:
 
-<img src="./assets/next-js-exercise-picture1.png" style="width: 600px;" />
-<img src="./assets/next-js-exercise-picture2.png" style="width: 600px;" />
+<img src="./assets/next-js-exercise-picture1.png" style="width: 1200px;" />
+<img src="./assets/next-js-exercise-picture2.png" style="width: 1200px;" />
 
 ---
 
