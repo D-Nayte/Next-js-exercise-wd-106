@@ -1,12 +1,12 @@
 import Link from "next/link";
 import React from "react";
 import Post from "../../components/Post";
-import { getPosts } from "../../lib/API-Posts";
+import { getSpecificPost } from "../../lib/API-Posts";
 
 async function postPage({ searchParams, params }) {
   const { post } = params;
   const { id } = searchParams;
-  const userPost = await getPosts(id);
+  const userPost = await getSpecificPost(id);
 
   if (post !== "post")
     return (
