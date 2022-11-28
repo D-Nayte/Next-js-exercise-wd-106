@@ -35,13 +35,17 @@
 
 ---
 
-## **How to install Install**
+## **How to install**
 
 ### Fork this repo and then
 
-> `npm install`
+```
+npm install
 
-> `npm run start`
+npm run start
+```
+
+</br>
 
 ---
 
