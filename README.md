@@ -6,11 +6,11 @@
 
 - [How to install ](#how-to-install)
 
-- [Exercise 1](#exercise-1-difficulty-😀)
+- [Exercise 1](#exercise-1)
 
-- [Exercise 2](#exercise-2-difficulty-🤔)
+- [Exercise 2](#exercise-2)
 
-- [Exercise 3](#exercise-3-difficulty-🤯)
+- [Exercise 3](#exercise-3)
 
 - [Extras](#extras)
 
@@ -54,7 +54,9 @@ npm run start
 
 ## **Exercises**
 
-### **Exercise 1 (difficulty: 😀)**
+### **Exercise 1**
+
+**(difficulty: 😀)**
 
 **Goal: Create a static route and a link to it**
 
@@ -80,7 +82,9 @@ npm run start
 <br/>
 <br/>
 
-### **Exercise 2 (difficulty: 🤔 )**
+### **Exercise 2**
+
+**(difficulty: 🤔 )**
 
 **Goal: Create a static Route with fetching data (server side) und using predefined components**
 
@@ -110,7 +114,9 @@ npm run start
 <br/>
 <br/>
 
-### **Exercise 3 (difficulty: 🤯 )**
+### **Exercise 3**
+
+**(difficulty: 🤯 )**
 
 **Goal: Create dynamic routes with fetching data. The data should define the name of the route. Pull out information from the query to fetch diffrent data again.**
 
