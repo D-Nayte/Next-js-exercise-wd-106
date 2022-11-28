@@ -12,6 +12,8 @@
 
 - [Exercise 3](#exercise-3-difficult-🤯)
 
+- [Extras](#extras)
+
 </br>
 
 ---
@@ -136,3 +138,7 @@
 ---
 
 <br/>
+
+# Extras
+
+## You find on the branch `extras` an example how to use `loading.js` and `error.js` inside your folders to handle loding and error events easily. Went to `/app/[post]/` to see the examples.
