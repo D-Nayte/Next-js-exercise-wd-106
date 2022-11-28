@@ -67,7 +67,7 @@
 
 ### **Desired outcome**:
 
-<img src="./assets/exercise1.png" style="width: 800px;" />
+<img src="./assets/exercise1.png" style="width: 1200px" />
 
 ---
 
