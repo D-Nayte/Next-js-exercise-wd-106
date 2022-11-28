@@ -4,13 +4,13 @@
 
 </br>
 
-- [How to install ](#how-to-install-install)
+- [How to install ](#how-to-install)
 
-- [Exercise 1](#exercise-1-difficult-😀)
+- [Exercise 1](#exercise-1-difficulty-😀)
 
-- [Exercise 2](#exercise-2-difficult-🤔)
+- [Exercise 2](#exercise-2-difficulty-🤔)
 
-- [Exercise 3](#exercise-3-difficult-🤯)
+- [Exercise 3](#exercise-3-difficulty-🤯)
 
 - [Extras](#extras)
 
