@@ -154,3 +154,8 @@ npm run start
 # Extras
 
 ## You find on the branch `extras` an example how to use `loading.js` and `error.js` inside your folders to handle loading and error events easily. Went to `/app/[post]/` to see the examples.
+
+</br>
+</br>
+
+## **_[BACK TO TOP](#content)_**
