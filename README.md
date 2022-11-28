@@ -135,7 +135,7 @@
 ### **Desired outcome**:
 
 <img src="./assets/next-js-exercise-picture1.png" style="width: 1200px;" />
-<img src="./assets/next-js-exercise-picture2.png" style="width: 1200px;" />
+<img src="./assets/exercise3.png" style="width: 1200px;" />
 
 ---
 
