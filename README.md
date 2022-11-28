@@ -25,7 +25,7 @@
 ### This exercise is made for Masterschool students to work with the Router in Next.js 13.
 
 ### You get instructions to create a dynamic route using [JSON placeholder](https://jsonplaceholder.typicode.com/) and Next.js Router. 
-##The **SOLUTIONS** to each exercise can be found in the corresponding branch!
+## The **SOLUTIONS** to each exercise can be found in the corresponding branch!
 
 </br>
 
