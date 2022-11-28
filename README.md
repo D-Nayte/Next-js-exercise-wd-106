@@ -37,6 +37,8 @@
 
 ## **How to install Install**
 
+### Fork this repo and then
+
 > `npm install`
 
 > `npm run start`
@@ -50,7 +52,7 @@
 
 ### **Exercise 1 (difficulty: 😀)**
 
-> **_Goal:create a static route and a link to it_**
+**Goal: Create a static route and a link to it**
 
 - **inside `/app/`**
 
@@ -76,7 +78,7 @@
 
 ### **Exercise 2 (difficulty: 🤔 )**
 
-> **_Goal: create a static Route with fetching data (server side) und using predefined components_**
+**Goal: Create a static Route with fetching data (server side) und using predefined components**
 
 - create a new route to /single_post
 
@@ -106,7 +108,7 @@
 
 ### **Exercise 3 (difficulty: 🤯 )**
 
-> **_Goal: Create dynamic routes with fetching data. The data should define the name of the route. Pull out information from the query to fetch diffrent data again._**
+**Goal: Create dynamic routes with fetching data. The data should define the name of the route. Pull out information from the query to fetch diffrent data again.**
 
 - **inside `/app/`**
 
