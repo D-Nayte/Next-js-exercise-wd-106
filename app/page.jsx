@@ -10,7 +10,11 @@ async function Blogposts() {
       {posts &&
         posts.map((post) => (
           <li key={post.id}>
-            <Link href={`/post?id=${post.id}`}>
+            <Link
+              href={{
+                pathname: `/post`,
+                query: { id: post.id },
+              }}>
               <LinkToPost post={post} />
             </Link>
           </li>
